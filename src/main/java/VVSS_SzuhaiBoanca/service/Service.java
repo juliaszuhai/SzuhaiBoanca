@@ -60,7 +60,9 @@ public class Service {
      */
     public Student addStudent(Student student) {
         studentValidator.validate(student);
-        return studentFileRepository.save(student);
+        if (findStudent(student.getID())== null)
+            return studentFileRepository.save(student);
+        return student;
     }
 
     /**

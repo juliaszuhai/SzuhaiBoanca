@@ -3,8 +3,15 @@ package VVSS_SzuhaiBoanca.validation;
 
 import VVSS_SzuhaiBoanca.domain.Student;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class StudentValidator implements Validator<Student> {
 
+
+    String regex = "^(.+)@(.+)$";
+
+    Pattern pattern = Pattern.compile(regex);
     /**
      * Valideaza un student
      * @param entity - studentul pe care il valideaza
@@ -12,6 +19,7 @@ public class StudentValidator implements Validator<Student> {
      */
     @Override
     public void validate(Student entity) throws ValidationException {
+        Matcher matcher = pattern.matcher(entity.getEmail());
         if(entity.getID().equals("")){
             throw new ValidationException("Id incorect!");
         }
@@ -24,6 +32,9 @@ public class StudentValidator implements Validator<Student> {
         if(entity.getGrupa() < 0) {
             throw new ValidationException("Grupa incorecta!");
         }
+        if(entity.getGrupa() > 999) {
+            throw new ValidationException("Grupa incorecta!");
+        }
         if(entity.getEmail() == null){
             throw new ValidationException("Email incorect!");
         }
@@ -33,6 +44,8 @@ public class StudentValidator implements Validator<Student> {
         if(entity.getEmail().equals("")){
             throw new ValidationException("Email incorect!");
         }
-
+        if(!matcher.matches()){
+            throw new ValidationException("Email incorect!");
+        }
     }
 }
