@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fisiere/StudentiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fisiere/StudentiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="163">
+              <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -81,8 +84,8 @@
       <file leaf-file-name="ServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="488">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentiTest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentiTest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="62" selection-start-column="62" selection-end-column="62" />
+              <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -141,7 +144,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/app/MainApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/curent/Curent.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Nota.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Tema.java" />
@@ -159,10 +161,11 @@
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/view/UI.java" />
         <option value="$PROJECT_DIR$/fisiere/TemeTest.xml" />
         <option value="$PROJECT_DIR$/fisiere/NoteTest.xml" />
-        <option value="$PROJECT_DIR$/fisiere/StudentiTest.xml" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/fisiere/StudentiTest.xml" />
       </list>
     </option>
   </component>
@@ -201,6 +204,11 @@
             <path>
               <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
               <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
+              <item name="fisiere" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
@@ -440,7 +448,7 @@
       <updated>1553070882628</updated>
       <workItem from="1553070886934" duration="127000" />
       <workItem from="1553071041446" duration="4268000" />
-      <workItem from="1554032864347" duration="3327000" />
+      <workItem from="1554032864347" duration="3584000" />
     </task>
     <servers />
   </component>
@@ -471,14 +479,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7722000" />
+    <option name="totallyTimeSpent" value="7979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32968536" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -487,10 +495,10 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40492475" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.10533515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3474692" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven-2 Build" order="0" />
       <window_info anchor="right" id="SciView" order="6" />
@@ -500,7 +508,6 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32968536" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -701,6 +708,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -769,20 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="62" selection-start-column="62" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -810,20 +806,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="488">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="40">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" lean-forward="true" selection-start-column="69" selection-end-column="69" />
         </state>
       </provider>
     </entry>
