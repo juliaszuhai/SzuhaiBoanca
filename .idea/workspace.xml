@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/DataInceput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Note.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/NoteTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Studenti.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Studenti.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/StudentiTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Teme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/Teme.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/TemeTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/eu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fisiere/la.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/app/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/curent/Curent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Tema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/AbstractCrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/AbstractFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/AbstractXMLRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/CrudRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/FileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/HasID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/NotaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/NotaXMLRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/StudentFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/StudentXMLRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/TemaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/TemaXMLRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/NotaValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/TemaValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/ValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/view/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SzuhaiBoanca.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SzuhaiBoanca.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fisiere/StudentiTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fisiere/StudentiTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,11 +52,29 @@
       <file leaf-file-name="ServiceTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="312">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentiTest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteTest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fisiere/NoteTest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="71" lean-forward="true" selection-start-column="71" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -108,15 +84,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="59" selection-start-column="59" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentiTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="73" selection-start-column="73" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -181,6 +148,8 @@
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/TemaValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/view/UI.java" />
+        <option value="$PROJECT_DIR$/fisiere/TemeTest.xml" />
+        <option value="$PROJECT_DIR$/fisiere/NoteTest.xml" />
         <option value="$PROJECT_DIR$/fisiere/StudentiTest.xml" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
       </list>
@@ -229,81 +198,6 @@
               <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
               <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="curent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
@@ -500,7 +394,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553070882628</updated>
       <workItem from="1553070886934" duration="127000" />
-      <workItem from="1553071041446" duration="2310000" />
+      <workItem from="1553071041446" duration="4268000" />
     </task>
     <servers />
   </component>
@@ -511,13 +405,30 @@
     <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 13m 30s.xml">
       <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 16m 28s.xml">
+      <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 18m 24s.xml">
+      <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 18m 26s.xml">
+      <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 19m 13s.xml">
+      <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceTest_addStudent - 2019.03.20 at 11h 19m 15s.xml">
+      <configuration name="ServiceTest.addStudent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ServiceTest - 2019.03.20 at 11h 19m 50s.xml">
+      <configuration name="ServiceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2437000" />
+    <option name="totallyTimeSpent" value="4395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -529,8 +440,8 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49384406" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40492475" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.019151846" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -556,6 +467,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -758,10 +674,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fisiere/TemeTest.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fisiere/NoteTest.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="58" selection-start-column="58" selection-end-column="58" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fisiere/Studenti.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -770,17 +687,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fisiere/NoteTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="71" lean-forward="true" selection-start-column="71" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="73" selection-start-column="73" selection-end-column="73" />
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="312">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -28,6 +28,12 @@ public class ServiceTest {
         NotaValidator notaValidator = new NotaValidator(studentXMLRepository, temaXMLRepository);
         NotaXMLRepo notaXMLRepository = new NotaXMLRepo(filenameNota);
         Service service = new Service(studentXMLRepository, studentValidator, temaXMLRepository, temaValidator, notaXMLRepository, notaValidator);
+        int i1 = 0;
+        Iterator it1=service.getAllStudenti().iterator();
+        while(it1.hasNext()) {
+            i1++;
+            it1.next();
+        }
         service.addStudent(a);
         int i = 0;
         Iterator it=service.getAllStudenti().iterator();
@@ -35,8 +41,8 @@ public class ServiceTest {
             i++;
             it.next();
         }
-        assertEquals(1, i);
-        assertEquals(a.getNume(),service.findStudent("1").getNume());
+        assertEquals(1, i-i1);
+
     }
     @Test
     public void addStudent2() {
