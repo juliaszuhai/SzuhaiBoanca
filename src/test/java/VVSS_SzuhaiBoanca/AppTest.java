@@ -139,4 +139,33 @@ public class AppTest
         Student a = new Student("1", "Iulia", 1000, "sara@yahoo.com");
         service.addStudent(a);
     }
+///////////////////////////
+    @Test
+    public void BVA_group_lower_limit(){
+        Student a = new Student("1", "Iulia", 0, "sara@yahoo.com");
+        service.addStudent(a);
+    }
+
+    @Test
+    public void BVA_group_lower_limit_plus(){
+        Student a = new Student("1", "Iulia", 1, "sara@yahoo.com");
+        service.addStudent(a);
+    }
+
+    @Test
+    public void BVA_group_upper_limit(){
+        Student a = new Student("1", "Iulia", 999, "sara@yahoo.com");
+        service.addStudent(a);
+    }
+    @Test(expected = ValidationException.class)
+    public void BVA_group_upper_limit_plus(){
+        Student a = new Student("1", "Iulia", 1001, "sara@yahoo.com");
+        service.addStudent(a);
+    }
+
+    @Test
+    public void BVA_nume_lower_limit(){
+        Student a = new Student("1", "I", 56, "sara@yahoo.com");
+        service.addStudent(a);
+    }
 }
