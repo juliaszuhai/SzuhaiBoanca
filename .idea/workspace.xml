@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="-237">
               <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
             </state>
           </provider>
@@ -51,17 +52,17 @@
       <file leaf-file-name="ServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="100">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractCrudRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/repository/AbstractCrudRepository.java">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="940">
-              <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+            <state relative-caret-position="2500">
+              <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -162,10 +163,11 @@
         <option value="$PROJECT_DIR$/fisiere/NoteTest.xml" />
         <option value="$PROJECT_DIR$/fisiere/StudentiTest.xml" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/app/MainApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" />
       </list>
     </option>
   </component>
@@ -343,7 +345,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ServiceTest">
+  <component name="RunManager" selected="JUnit.AppTest">
     <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.app.MainApplication" />
       <module name="SzuhaiBoanca" />
@@ -357,6 +359,29 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SzuhaiBoanca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VVSS_SzuhaiBoanca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="VVSS_SzuhaiBoanca" />
+      <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.AppTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SzuhaiBoanca" />
@@ -372,29 +397,6 @@
       <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.service.ServiceTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ServiceTest.EC_id_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SzuhaiBoanca" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VVSS_SzuhaiBoanca.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="VVSS_SzuhaiBoanca.service" />
-      <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.service.ServiceTest" />
-      <option name="METHOD_NAME" value="EC_id_empty" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -490,18 +492,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ServiceTest.EC_id_null" />
-      <item itemvalue="JUnit.ServiceTest.EC_id_empty" />
       <item itemvalue="JUnit.ServiceTest.EC_id_not_unique" />
       <item itemvalue="JUnit.ServiceTest" />
       <item itemvalue="Application.MainApplication" />
+      <item itemvalue="JUnit.AppTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.ServiceTest" />
         <item itemvalue="Application.MainApplication" />
         <item itemvalue="JUnit.ServiceTest.EC_id_not_unique" />
         <item itemvalue="JUnit.ServiceTest.EC_id_null" />
-        <item itemvalue="JUnit.ServiceTest.EC_id_empty" />
       </list>
     </recent_temporary>
   </component>
@@ -520,14 +522,11 @@
       <workItem from="1554032864347" duration="3907000" />
       <workItem from="1554044289381" duration="1296000" />
       <workItem from="1554048682700" duration="4270000" />
-      <workItem from="1554181199721" duration="1884000" />
+      <workItem from="1554181199721" duration="2676000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest - 2019.03.31 at 21h 57m 21s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ServiceTest_EC_id_not_unique - 2019.03.31 at 21h 10m 06s.xml">
       <configuration name="ServiceTest.EC_id_not_unique" configurationId="JUnit" />
     </history-entry>
@@ -555,9 +554,12 @@
     <history-entry file="ServiceTest - 2019.04.02 at 08h 23m 43s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ServiceTest - 2019.04.02 at 08h 33m 15s.xml">
+      <configuration name="ServiceTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18720000" />
+    <option name="totallyTimeSpent" value="19512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -573,7 +575,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.2421875" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41450068" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27906978" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.34834123" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
@@ -607,13 +609,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="51" column="69" selection-start-line="51" selection-start-column="69" selection-end-line="51" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1875">
@@ -974,17 +969,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="-237">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        <state relative-caret-position="100">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="140" column="5" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
         </state>
       </provider>
     </entry>
