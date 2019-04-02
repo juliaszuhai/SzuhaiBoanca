@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/VVSS_SzuhaiBoanca/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/VVSS_SzuhaiBoanca/service/ServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-839">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="1700">
+              <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -522,7 +521,7 @@
       <workItem from="1554032864347" duration="3907000" />
       <workItem from="1554044289381" duration="1296000" />
       <workItem from="1554048682700" duration="4270000" />
-      <workItem from="1554181199721" duration="1005000" />
+      <workItem from="1554181199721" duration="1286000" />
     </task>
     <servers />
   </component>
@@ -559,11 +558,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17841000" />
+    <option name="totallyTimeSpent" value="18122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -574,7 +572,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.2421875" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38166896" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22024624" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.34834123" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
@@ -985,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-839">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="1700">
+          <caret line="85" column="10" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1081,6 +1079,7 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="install -Dmaven.test.failure.ignore=true" />
     <option value="clean install" />
   </component>
 </project>
