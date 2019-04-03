@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/VVSS_SzuhaiBoanca/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/VVSS_SzuhaiBoanca/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/VVSS_SzuhaiBoanca/service/ServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,32 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-237">
-              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/app/MainApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="49" selection-start-line="18" selection-start-column="8" selection-end-line="19" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Service.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+            <state relative-caret-position="306">
+              <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,11 +27,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TemaValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/TemaValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2680">
-              <caret line="149" column="36" selection-start-line="149" selection-start-column="36" selection-end-line="149" selection-end-column="36" />
+            <state relative-caret-position="480">
+              <caret line="57" column="69" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="57" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WTBAssignment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,20 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentiTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="61" selection-start-column="61" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StudentValidator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="500">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -99,21 +87,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NoteTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fisiere/NoteTest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="71" selection-start-column="71" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -159,8 +139,9 @@
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java" />
       </list>
     </option>
   </component>
@@ -202,7 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,6 +248,15 @@
               <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
               <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="VVSS_SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SzuhaiBoanca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SzuhaiBoanca" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,7 +278,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -329,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
+  <component name="RunManager" selected="JUnit.WTBAssignment">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -425,7 +415,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AppTest.EC_group_limit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WTBAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SzuhaiBoanca" />
       <extension name="coverage">
         <pattern>
@@ -436,9 +426,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="VVSS_SzuhaiBoanca" />
-      <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.AppTest" />
-      <option name="METHOD_NAME" value="EC_group_limit" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="VVSS_SzuhaiBoanca.WTBAssignment" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -488,18 +478,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.AppTest" />
-      <item itemvalue="JUnit.AppTest.EC_group_limit" />
       <item itemvalue="JUnit.AppTest.BVA_group_limit_plus" />
       <item itemvalue="JUnit.AppTest.BVA_group_limit" />
       <item itemvalue="JUnit.AppTest.BVA_nume_lower_limit" />
+      <item itemvalue="JUnit.WTBAssignment" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WTBAssignment" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.BVA_nume_lower_limit" />
         <item itemvalue="JUnit.AppTest.BVA_group_limit" />
         <item itemvalue="JUnit.AppTest.BVA_group_limit_plus" />
-        <item itemvalue="JUnit.AppTest.EC_group_limit" />
       </list>
     </recent_temporary>
   </component>
@@ -518,20 +508,13 @@
       <workItem from="1554032864347" duration="3907000" />
       <workItem from="1554044289381" duration="1296000" />
       <workItem from="1554048682700" duration="4270000" />
-      <workItem from="1554181199721" duration="8822000" />
+      <workItem from="1554181199721" duration="9438000" />
+      <workItem from="1554219636571" duration="1069000" />
+      <workItem from="1554275206589" duration="989000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest_EC_id_null - 2019.03.31 at 21h 05m 04s.xml">
-      <configuration name="ServiceTest.EC_id_null" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ServiceTest_EC_id_null - 2019.03.31 at 21h 05m 11s.xml">
-      <configuration name="ServiceTest.EC_id_null" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ServiceTest - 2019.04.01 at 23h 55m 32s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ServiceTest - 2019.04.02 at 08h 23m 43s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
     </history-entry>
@@ -553,9 +536,18 @@
     <history-entry file="AppTest_BVA_nume_lower_limit - 2019.04.02 at 14h 54m 01s.xml">
       <configuration name="AppTest.BVA_nume_lower_limit" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest - 2019.04.02 at 15h 04m 15s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.04.02 at 15h 04m 51s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.04.02 at 15h 05m 28s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25658000" />
+    <option name="totallyTimeSpent" value="28332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -563,7 +555,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938388" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -571,11 +562,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.2421875" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16142271" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2653899" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.34834123" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25846353" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25846353" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven-2 Build" order="0" />
       <window_info anchor="right" id="SciView" order="6" />
@@ -585,12 +576,13 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938388" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,13 +597,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1100">
@@ -646,13 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/fisiere/StudentiTest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -746,20 +725,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/curent/Curent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -861,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/TemaValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/ValidationException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -910,24 +873,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/view/UI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -953,39 +902,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-237">
-          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        <state relative-caret-position="1360">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/domain/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/view/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="243" column="26" lean-forward="true" selection-start-line="243" selection-start-column="26" selection-end-line="243" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="61" column="28" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        <state relative-caret-position="306">
+          <caret line="114" column="24" lean-forward="true" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/TemaValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="260">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2680">
-          <caret line="149" column="36" selection-start-line="149" selection-start-column="36" selection-end-line="149" selection-end-column="36" />
+        <state relative-caret-position="480">
+          <caret line="57" column="69" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="57" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
