@@ -16,7 +16,7 @@ import java.util.Iterator;
 
 import static org.junit.Assert.assertEquals;
 
-public class WTBAssignment {
+public class WTBAssignmentTest {
     private StudentValidator studentValidator;
     private TemaValidator temaValidator;
     private String filenameStudent="fisiere/StudentiTest.xml";

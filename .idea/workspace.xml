@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0344ea6-c42a-4e8e-b0db-92b5ebc4f730" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignmentTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,17 +40,17 @@
       <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="57" column="69" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="57" selection-end-column="69" />
+            <state relative-caret-position="880">
+              <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WTBAssignment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java">
+      <file leaf-file-name="WTBAssignmentTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignmentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state relative-caret-position="380">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,8 +140,8 @@
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/service/Service.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/service/ServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/VVSS_SzuhaiBoanca/validation/StudentValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java" />
       </list>
     </option>
@@ -510,20 +511,11 @@
       <workItem from="1554048682700" duration="4270000" />
       <workItem from="1554181199721" duration="9438000" />
       <workItem from="1554219636571" duration="1069000" />
-      <workItem from="1554275206589" duration="989000" />
+      <workItem from="1554275206589" duration="3262000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest - 2019.04.02 at 08h 23m 43s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ServiceTest - 2019.04.02 at 08h 33m 15s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.04.02 at 12h 25m 54s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_EC_group_limit - 2019.04.02 at 14h 23m 59s.xml">
       <configuration name="AppTest.EC_group_limit" configurationId="JUnit" />
     </history-entry>
@@ -545,9 +537,18 @@
     <history-entry file="AppTest - 2019.04.02 at 15h 05m 28s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WTBAssignment - 2019.04.03 at 10h 23m 31s.xml">
+      <configuration name="WTBAssignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WTBAssignment - 2019.04.03 at 10h 23m 38s.xml">
+      <configuration name="WTBAssignment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WTBAssignment - 2019.04.03 at 10h 24m 49s.xml">
+      <configuration name="WTBAssignment" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28332000" />
+    <option name="totallyTimeSpent" value="30605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -555,6 +556,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938388" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -563,7 +565,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2653899" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34834123" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30916554" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25846353" />
@@ -576,7 +578,6 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32938388" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -948,15 +949,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="57" column="69" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="57" selection-end-column="69" />
+        <state relative-caret-position="880">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignment.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/VVSS_SzuhaiBoanca/WTBAssignmentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        <state relative-caret-position="380">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

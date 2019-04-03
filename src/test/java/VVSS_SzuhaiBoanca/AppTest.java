@@ -4,6 +4,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import VVSS_SzuhaiBoanca.domain.Student;
+import VVSS_SzuhaiBoanca.domain.Tema;
 import VVSS_SzuhaiBoanca.repository.NotaXMLRepo;
 import VVSS_SzuhaiBoanca.repository.StudentXMLRepo;
 import VVSS_SzuhaiBoanca.repository.TemaXMLRepo;
@@ -167,5 +168,33 @@ public class AppTest
     public void BVA_nume_lower_limit(){
         Student a = new Student("1", "I", 56, "sara@yahoo.com");
         service.addStudent(a);
+    }
+
+    @Test
+    public void  addAssignment(){
+        Tema a=new Tema("1","Descriere",10,8);
+        service.addTema(a);
+        int i = 0;
+        Iterator it=service.getAllTeme().iterator();
+        while(it.hasNext()) {
+            i++;
+            it.next();
+        }
+        assertEquals(1, i);
+        //assertEquals(a.getNume(),service.findStudent("1").getNume());
+    }
+
+    @Test
+    public void addAssignment2(){
+        Tema a=new Tema("1","Descriere",10,8);
+        service.addTema(a);
+        service.addTema(a);
+        int i = 0;
+        Iterator it=service.getAllTeme().iterator();
+        while(it.hasNext()) {
+            i++;
+            it.next();
+        }
+        assertEquals(1, i);
     }
 }
