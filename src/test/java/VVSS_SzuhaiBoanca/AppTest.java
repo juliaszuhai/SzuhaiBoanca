@@ -170,31 +170,5 @@ public class AppTest
         service.addStudent(a);
     }
 
-    @Test
-    public void  addAssignment(){
-        Tema a=new Tema("1","Descriere",10,8);
-        service.addTema(a);
-        int i = 0;
-        Iterator it=service.getAllTeme().iterator();
-        while(it.hasNext()) {
-            i++;
-            it.next();
-        }
-        assertEquals(1, i);
-        //assertEquals(a.getNume(),service.findStudent("1").getNume());
-    }
 
-    @Test
-    public void addAssignment2(){
-        Tema a=new Tema("1","Descriere",10,8);
-        service.addTema(a);
-        service.addTema(a);
-        int i = 0;
-        Iterator it=service.getAllTeme().iterator();
-        while(it.hasNext()) {
-            i++;
-            it.next();
-        }
-        assertEquals(1, i);
-    }
 }
