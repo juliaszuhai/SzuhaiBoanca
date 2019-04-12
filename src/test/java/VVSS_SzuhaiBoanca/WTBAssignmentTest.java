@@ -9,6 +9,7 @@ import VVSS_SzuhaiBoanca.service.Service;
 import VVSS_SzuhaiBoanca.validation.NotaValidator;
 import VVSS_SzuhaiBoanca.validation.StudentValidator;
 import VVSS_SzuhaiBoanca.validation.TemaValidator;
+import VVSS_SzuhaiBoanca.validation.ValidationException;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -66,6 +67,63 @@ public class WTBAssignmentTest {
         }
         assertEquals(1, i);
     }
+
+    @Test(expected = NullPointerException.class)
+    public void WBT_id_null() {
+        Tema a = new Tema(null, "Iulia", 10, 13);
+        service.addTema(a);
+    }
+
+    @Test(expected = ValidationException.class)
+    public void WBT_id_empty() {
+        Tema a = new Tema("", "Iulia", 10, 13);
+        service.addTema(a);
+    }
+
+    @Test(expected = NullPointerException.class)
+    public void WBT_description_null() {
+        Tema a = new Tema("2", null, 10, 13);
+        service.addTema(a);
+    }
+
+    @Test(expected = ValidationException.class)
+    public void WBT_description_empty() {
+        Tema a = new Tema("1", "", 10, 13);
+        service.addTema(a);
+    }
+
+    @Test(expected = ValidationException.class)
+    public void WBT_deadline_less1(){
+        Tema a = new Tema("1", "tema", 0, 10);
+        service.addTema(a);
+    }
+
+
+    @Test(expected = ValidationException.class)
+    public void WBT_deadline_greater14(){
+        Tema a = new Tema("1", "tema", 15, 10);
+        service.addTema(a);
+    }
+
+    @Test(expected = ValidationException.class)
+    public void WBT_receivement_less1(){
+        Tema a = new Tema("1", "tema", 10, 0);
+        service.addTema(a);
+    }
+
+
+    @Test(expected = ValidationException.class)
+    public void WBT_receivement_greater14(){
+        Tema a = new Tema("1", "tema", 10, 15);
+        service.addTema(a);
+    }
+
+    @Test(expected = ValidationException.class)
+    public void WBT_receivement_greater_deadline(){
+        Tema a = new Tema("1", "tema", 10, 12);
+        service.addTema(a);
+    }
+
 
 
 }
