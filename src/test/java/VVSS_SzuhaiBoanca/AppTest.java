@@ -55,7 +55,7 @@ public class AppTest
             i++;
             it.next();
         }
-        assertEquals(1, i);
+        assertEquals(3, i);
         assertEquals(a.getNume(),service.findStudent("1").getNume());
     }
     @Test
