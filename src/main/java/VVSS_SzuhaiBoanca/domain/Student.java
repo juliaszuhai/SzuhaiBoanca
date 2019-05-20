@@ -9,6 +9,9 @@ public class Student implements HasID<String> {
     private int grupa;
     private String email;
 
+    public Student() {
+    }
+
     /**
      * Class Constructor
      * @param idStudent - id-ul studentului
@@ -16,6 +19,8 @@ public class Student implements HasID<String> {
      * @param grupa - grupa studentului
      * @param email - emailul unui student
      */
+
+
     public Student(String idStudent, String nume, int grupa, String email) {
         this.idStudent = idStudent;
         this.nume = nume;

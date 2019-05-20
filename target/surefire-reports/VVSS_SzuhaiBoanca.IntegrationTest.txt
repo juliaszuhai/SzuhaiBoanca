@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: VVSS_SzuhaiBoanca.IntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.046 s <<< FAILURE! - in VVSS_SzuhaiBoanca.IntegrationTest
+addGrade(VVSS_SzuhaiBoanca.IntegrationTest)  Time elapsed: 0.032 s  <<< ERROR!
+VVSS_SzuhaiBoanca.validation.ValidationException: Studentul nu mai poate preda aceasta tema!
+	at VVSS_SzuhaiBoanca.IntegrationTest.addGrade(IntegrationTest.java:111)
+
+addGrade2(VVSS_SzuhaiBoanca.IntegrationTest)  Time elapsed: 0.003 s  <<< ERROR!
+VVSS_SzuhaiBoanca.validation.ValidationException: Studentul nu mai poate preda aceasta tema!
+	at VVSS_SzuhaiBoanca.IntegrationTest.addGrade2(IntegrationTest.java:179)
+
+addGradeIntegration(VVSS_SzuhaiBoanca.IntegrationTest)  Time elapsed: 0.002 s  <<< ERROR!
+VVSS_SzuhaiBoanca.validation.ValidationException: Studentul nu mai poate preda aceasta tema!
+	at VVSS_SzuhaiBoanca.IntegrationTest.addGradeIntegration(IntegrationTest.java:94)
+

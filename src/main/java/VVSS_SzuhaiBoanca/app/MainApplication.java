@@ -9,6 +9,8 @@ import VVSS_SzuhaiBoanca.validation.NotaValidator;
 import VVSS_SzuhaiBoanca.validation.StudentValidator;
 import VVSS_SzuhaiBoanca.validation.TemaValidator;
 import VVSS_SzuhaiBoanca.view.UI;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+
 
 public class MainApplication {
 
